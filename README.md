@@ -1,6 +1,6 @@
 # Dynamic-Sales-Dashboard
 
-This Repository contains analysis of Sales data of different teams for the fiscal year 2019-20. You can find teams' analysis through Dashboard or go to the Tabular to understand what data is present. Visualization changes if the data within the file changes, making the dashboard dynamic.
+This Repository contains Sales data analysis of different teams for the fiscal year 2019-20. You can find teams' analysis through Dashboard or go to the Tabular to understand what data is present. Visualization changes if the data within the file changes, making the dashboard dynamic.
 
 <br>
 
@@ -9,7 +9,7 @@ This Repository contains analysis of Sales data of different teams for the fisca
 
 | Files/Folder               | Description                                                         |
 | -------------------------- | ------------------------------------------------------------------- |
-| **Dataset**                | This folder provides you datasets for the fiscal year 2019 - 20 in CSV format |
+| **Dataset**                | This folder provides you with datasets for the fiscal year 2019 - 20 in CSV format |
 | **Dynamic Sales Dashboard**| This file is an Excel Workbook in .xlxs format, in which the Dashboard has been made. |
 
 <br>
@@ -18,7 +18,7 @@ This Repository contains analysis of Sales data of different teams for the fisca
 
       o Trend of Gross margin for every month of the year.
        
-      o Necessary KPIs for Net Sales, Gross Sales, Total Cost, Total Discount, and Gross Margin .
+      o Necessary KPIs for Net Sales, Gross Sales, Total Cost, Total Discount, and Gross Margin.
       
       o Net Sales by Teams.
 
@@ -32,13 +32,13 @@ This Repository contains analysis of Sales data of different teams for the fisca
 
 ## <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
 
-     o Concatenating every csv present in the Dataset folder and connect to workbook using Power Query. 
+     o Concatenating every csv in the Dataset folder and connecting to the workbook using Power Query. 
      
      o This will create a pivot table and is used for the dynamicity of the data.
      
-     o Toggle button to visualize the data in Tabular view .
+     o Toggle button to visualize the data in Tabular view.
      
-     o Creating Necessary Charts, Sparklines and Graphs, formatted with good aesthetics. 
+     o Creating Necessary Charts, Sparklines, and Graphs, formatted with pleasing aesthetics. 
      
      o Creating Slicers for filtering the data.
 
