@@ -16,11 +16,11 @@ This Repository contains analysis of Sales data of different teams for the fisca
 
 ##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
 
-      o	Trend of Gross margin for every month of the year.
+      o Trend of Gross margin for every month of the year.
        
-      o	Necessary KPIs for Net Sales, Gross Sales, Total Cost, Total Discount, and Gross Margin .
+      o Necessary KPIs for Net Sales, Gross Sales, Total Cost, Total Discount, and Gross Margin .
       
-      o	Net Sales by Teams.
+      o Net Sales by Teams.
 
 <br>
 
@@ -56,6 +56,6 @@ This Repository contains analysis of Sales data of different teams for the fisca
 
 ## Conclusion:
 
-      o       The real-time nature of the dashboard allows businesses to monitor sales activities as they happen.
-      o       The dashboard provides insights into revenue generation, including total revenue, revenue by product or service, revenue by customer segment, or revenue by geography.
+      o The real-time nature of the dashboard allows businesses to monitor sales activities as they happen.
+      o The dashboard provides insights into revenue generation, including total revenue, revenue by product or service, revenue by customer segment, or revenue by geography.
 
